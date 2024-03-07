@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tabla de Datos</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+      }
+
+      th,
+      td {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 12px;
+        position: relative;
+      }
+
+      th {
+        background-color: #103953;
+        color: white;
+      }
+
+      tr {
+        transition: background-color 0.3s ease;
+      }
+
+      tr:hover {
+        background-color: #355fb8;
+      }
+
+      .highlight {
+        background-color: #322589;
+        color: white;
+      }
+
+      .tooltip {
+        position: absolute;
+        top: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 6px 12px;
+        border-radius: 4px;
+        visibility: hidden;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+      }
+
+      td:hover .tooltip {
+        visibility: visible;
+        opacity: 1;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <th>Estudiantes</th>
+          <th>Kickoff 1</th>
+          <th>Kickoff 2</th>
+          <th>Introducción a HTML Clase</th>
+          <th>Introducción a HTML Tutoría</th>
+          <th>Introducción a CSS Clase</th>
+          <th>Introducción a CSS Tutoría</th>
+          <th>Alineando contenido con Flex Clase</th>
+          <th>Alineando contenido con Flex Tutoría</th>
+          <th>Bootstrap Clase</th>
+          <th>Bootstrap Tutoría</th>
+          <th>Terminal, Git y Github Clase</th>
+          <th>Terminal, Git y Github Tutoría</th>
+          <th>Trabajo colaborativo y Github Pages Clase</th>
+          <th>Trabajo colaborativo y Github Pages Tutoría</th>
+        </tr>
+      </thead>
+      <tbody id="tabla-body"></tbody>
+    </table>
+
+    <script>
+      function filtrarAsistencia(data) {
+        return data.estudiantes.filter((student) => {
+          return student.fechas_asistencia
+            .slice(5)
+            .some((asistencia) => asistencia === "√");
+        });
+      }
+
+      function agregarFilasTabla(students, columnNames) {
+        const tablaBody = document.getElementById("tabla-body");
+
+        students.forEach((student) => {
+          const row = document.createElement("tr");
+          row.innerHTML = `
+          <td>${student.nombre}</td>
+          ${student.fechas_asistencia
+            .map(
+              (asistencia, index) =>
+                `<td>${asistencia}<span class="tooltip">${
+                  columnNames[index + 1]
+                }</span></td>`
+            )
+            .join("")}
+        `;
+          tablaBody.appendChild(row);
+        });
+      }
+
+      function resaltarFilaClase6() {
+        const tablaBody = document.getElementById("tabla-body");
+        const rows = tablaBody.getElementsByTagName("tr");
+
+        Array.from(rows).forEach((row) => {
+          const cells = row.getElementsByTagName("td");
+          if (cells[6].innerText === "√") {
+            row.classList.add("highlight");
+          }
+        });
+      }
+
+      // Array con los nombres de las columnas
+      const columnNames = [
+        "Kickoff 1",
+        "Kickoff 2",
+        "Introducción a HTML Clase",
+        "Introducción a HTML Tutoría",
+        "Introducción a CSS Clase",
+        "Introducción a CSS Tutoría",
+        "Alineando contenido con Flex Clase",
+        "Alineando contenido con Flex Tutoría",
+        "Bootstrap Clase",
+        "Bootstrap Tutoría",
+        "Terminal, Git y Github Clase",
+        "Terminal, Git y Github Tutoría",
+        "Trabajo colaborativo y Github Pages Clase",
+        "Trabajo colaborativo y Github Pages Tutoría",
+      ];
+
+      // Fetch data from JSON file
+      fetch("asistencia.json")
+        .then((response) => response.json())
+        .then((data) => {
+          const studentsWithAttendance = filtrarAsistencia(data);
+          agregarFilasTabla(studentsWithAttendance, columnNames);
+          resaltarFilaClase6();
+        })
+        .catch((error) => console.error("Error fetching JSON:", error));
+    </script>
+  </body>
+</html>

@@ -1,0 +1,1183 @@
+{
+  "estudiantes": [
+    {
+      "nombre": "Alberto Luna",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Andres Caro",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Andriw Ochoa",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Antonio Aravena Riquelme",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Ariel Henriquez",
+      "fechas_asistencia": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Barbara Urrutia saez",
+      "fechas_asistencia": [
+        "",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Brayan Alvarado",
+      "fechas_asistencia": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Carlos Oyarce López",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Daniel Guzman Sagredo",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Darling Constanzo",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "David Castellar",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "David Lopez",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Diego Castellano",
+      "fechas_asistencia": [
+        "",
+        "√",
+        "√",
+        "√",
+        "",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Eduardo Rodrigo Osses",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Evelyn Flores",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Felipe Castillo ",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Felipe Santander",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Fernando Celis Acevedo",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Francisco Cabrera Saavedra",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Francisco Parra Rojas",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Francisco Ruiz arancibia",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Gabriel Rozas",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "",
+        "√",
+        "",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Gianlucca Aste",
+      "fechas_asistencia": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Giovanny Lopez",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Gonzalo Duarte",
+      "fechas_asistencia": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Grover Soria García",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Hugo Felipe Mansilla Jamett",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Iuliia Chefanova",
+      "fechas_asistencia": [
+        "",
+        "√",
+        "√",
+        "",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Javiera Araya",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Joaquín Astroza",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Jocelyn Araya",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Jonathan Aros Hernandez",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Jose Rivera",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "José Rosas",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Karla Soto Albornoz",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Krysthel Tassoni Modera",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Leonardo Sánchez Espinoza",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Magdalena Fernandez",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Marcelo Gallardo Moreno",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Marco Andres Barraza",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Maria Iglesias Larrain",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Millaray Painemil",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Nicolas Camino Villaseca",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Nicolás Winckler",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Nilsson Espinosa",
+      "fechas_asistencia": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Pablo Donoso Moscoso",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Patricio Aros Diaz",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Patricio Hernandez",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Pedro Rojas Urrutia",
+      "fechas_asistencia": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Rodrigo Styles Herrera",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Rosa Jelves Olivares",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Ruth Núñez cáceres",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Saray Tapia Soto",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Sebastián andrés Martínez vargas",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Sebastian Arcaya",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Sergio Alejandro González",
+      "fechas_asistencia": [
+        "√",
+        "",
+        "√",
+        "",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Teidell Marieli Marcano",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "William Rodríguez Fernández",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "nombre": "Winston Bravo",
+      "fechas_asistencia": [
+        "√",
+        "√",
+        "√",
+        "√",
+        "√",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
+
